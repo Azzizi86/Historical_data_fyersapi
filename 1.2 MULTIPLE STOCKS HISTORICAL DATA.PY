@@ -37,8 +37,8 @@ def start_sql():
 
 def login_credentials():
         
-    app_id = "X8K3EI61DV-100"
-    secret_id = "D7ZDCAXY47"
+    app_id = 
+    secret_id = 
     
     return app_id,secret_id
 
